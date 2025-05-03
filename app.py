@@ -1,7 +1,9 @@
-
 import streamlit as st
+import os
+os.system("pip install joblib")
 import joblib
 import pandas as pd
+
 
 # Load the trained model pipeline
 model = joblib.load("churn_model_xgb_balanced.pkl")
