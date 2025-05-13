@@ -1,7 +1,10 @@
-
 # Customer Churn Prediction Dashboard
 
 This project is a deployable Streamlit dashboard that predicts customer churn based on demographic and service usage features. The model is trained on the Telco Customer Churn dataset using XGBoost with class imbalance handled via manual oversampling.
+
+## 🌐 Try the Dashboard Live Here
+
+👉 [Click here to try the Customer Churn Dashboard](https://customer-churn-app-ntfuoecavcqzpapmc9lxw8.streamlit.app/)
 
 ## 📁 Files Included
 
