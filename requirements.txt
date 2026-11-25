@@ -4,3 +4,4 @@ xgboost==1.4.2
 pandas==1.5.3
 numpy==1.24.0
 joblib
+setuptools==80.9.0
